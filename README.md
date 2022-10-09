@@ -1,4 +1,4 @@
-# Social Learning Resources
+# The works of Albert Bandura
 
 ## Social Learning Theory Books
 
