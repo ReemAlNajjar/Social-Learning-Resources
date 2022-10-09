@@ -1,2 +1,17 @@
-# Social-Learning-Resources
-Social Learning Resources
+# Social Learning Resources
+
+## Social Learning Theory Books
+
+* [“Self-Efficacy: The Exercise of Control”](https://www.google.com/books/edition/Self_Efficacy/eJ-PN9g_o-EC) by Albert Bandura. The renowned psychologist discusses his theory that believing one can achieve what one sets out to do results in a healthier, more effective, and generally more successful life.
+* [“Self-Efficacy in Changing Societies”](https://www.google.com/books/edition/Self_Efficacy_in_Changing_Societies/JbJnOAoLMNEC) by Albert Bandura. An analysis of the various ways in which beliefs of personal efficacy work within a system of sociocultural influences to shape one’s life paths. Concepts covered include infancy and personal agency, competency through the lifespan, the role of family and cross-cultural factors.
+* [“Social Learning Theory”](https://www.google.com/books/edition/Theories_for_Direct_Social_Work_Practice/tT_AAgAAQBAJ) by Albert Bandura. This book explores advances in social learning theory with a focus on the crucial roles played by cognitive, vicarious and self-regulatory processes.
+* [“Theories for Direct Social Work Practice”](https://www.google.com/books/edition/Theories_for_Direct_Social_Work_Practice/tT_AAgAAQBAJ) by Joseph Walsh. The author includes succinct, extensive coverage of eleven major clinical practice theories commonly used in assessment, planning and intervention efforts with individual clients, families and groups.
+* [“Case Studies in Social Work Practice”](https://www.google.com/books/edition/Case_Studies_in_Social_Work_Practice/4EScAgAAQBAJ) by Craig W. LeCroy. The case studies in this book allow students to discover the when, why, and how of social work principles. Concise and thorough topic overviews are brought to life by case studies that apply general theories to social work.
+* [“Social Learning and Social Structure: A General Theory of Crime and Deviance”](https://www.google.com/books/edition/Social_Learning_and_Social_Structure/mpsuDwAAQBAJ) by Ronald Akers. The author offers an in-depth, authoritative discussion of the background, concepts, development, modifications and empirical tests of social learning theory. He concludes with a strong dialogue of the implications of social learning theory for criminology and public policy.
+
+## Social Learning Theory Online Resources
+
+* [Bobo Doll Experiment](https://www.simplypsychology.org/bobo-doll.html) by Saul McLeod. This article examines two of the Bobo Doll experiments performed by Albert Bandura in the 1960s. It covers the methodology, results and evaluation including limitations.
+* [ScienceDirect.com](https://www.sciencedirect.com/topics/psychology/social-learning-theory). This site provides sample chapters of books that relate to social learning theory. Selections cover topics that range from peer influences on addiction, social anxiety in children and adolescents to child abuse and aggression, violence and delinquency.
+* [“5 Social Work Theories That Inform Practice”](https://www.academia.edu/37461028/Social_Work_Theories_That_Inform_Practice_-_Social_Work_Helper) by Social Work Helper. The paper breaks down five social work theories including social learning theory in a clear concise manner.
+* [“Social Learning Theory: (Learning to be a criminal)”](https://www.lawteacher.net/free-law-essays/criminology/social-learning-theory.php) from LawTeacher.net. This essay discusses the factors that influence a child’s behavior including observational learning and mediational processes.
